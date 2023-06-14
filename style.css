@@ -1,0 +1,43 @@
+body {
+    background-color:beige;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 5% 10%;
+    font-size: 7% 10%;
+}
+
+.photo{ display: block;
+    height: auto;
+    max-width: 100%;
+    border-radius: 20%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.INSTRUCTIONS{
+    font-size: 200%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.pound{
+    font-size: 200%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    line-height-step: 20%;
+}
+
+.RECIPE{
+    font-size: 200%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.INSTRA{
+    list-style-type: style type circle;
+    padding:10%;
+}
+
+.RECI{
+    list-style-type: style type circle;
+    padding:10%;
+    
+};
